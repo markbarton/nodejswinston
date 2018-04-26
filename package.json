@@ -1,0 +1,13 @@
+{
+  "name": "nodejswinston",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "moment": "^2.22.1",
+    "winston": "^2.4.2"
+  }
+}
